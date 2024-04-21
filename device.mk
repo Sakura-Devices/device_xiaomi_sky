@@ -446,6 +446,7 @@ PRODUCT_PACKAGES += \
     CarrierConfig \
     FrameworksResCommon \
     FrameworksResTarget \
+    NotchBarKiller \
     SettingsResCommon \
     SystemUIResCommon \
     TelephonyResCommon \

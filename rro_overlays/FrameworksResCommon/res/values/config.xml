@@ -299,4 +299,7 @@
     <!-- See AmbientSensor.AmbientColorTemperatureSensor. The ambient color temperature sensor name. -->
     <string name="config_displayWhiteBalanceColorTemperatureSensorName">com.google.sensor.color</string>
 
+    <!-- Fingerprint from stock ROM -->
+    <string name="config_stockFingerprint" translatable="false">Xiaomi/sky_in/missi:13/TKQ1.221114.001/V14.0.7.0.TMWINXM:user/release-keys</string>
+
 </resources>

@@ -4,6 +4,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+BUILD_BROKEN_INCORRECT_PARTITION_IMAGES := true
+
 # Inherit from the proprietary version
 -include vendor/xiaomi/sky/BoardConfigVendor.mk
 
